@@ -1,5 +1,9 @@
 # Cyrus FPS Assignment
 
+## Gameplay Preview
+
+![Gameplay Video]([Screenshots/gameplay.png](https://www.youtube.com/watch?v=96beften0nc&feature=youtu.be))
+
 ## Overview
 
 This project implements a simple FPS-style box shooting system in **Unreal Engine 5 using C++**.
