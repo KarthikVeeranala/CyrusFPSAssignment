@@ -2,7 +2,7 @@
 
 ## Gameplay Preview
 
-![Gameplay Video]([Screenshots/gameplay.png](https://www.youtube.com/watch?v=96beften0nc&feature=youtu.be))
+![Gameplay Video](https://www.youtube.com/watch?v=96beften0nc&feature=youtu.be)
 
 ## Overview
 
