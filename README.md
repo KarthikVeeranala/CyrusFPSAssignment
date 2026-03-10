@@ -2,7 +2,9 @@
 
 ## Gameplay Preview
 
-![Gameplay Video](https://www.youtube.com/watch?v=96beften0nc&feature=youtu.be)
+[![Gameplay Demo](https://img.youtube.com/vi/96beften0nc/0.jpg)](https://www.youtube.com/watch?v=96beften0nc)
+
+Click the image above to watch the gameplay video.
 
 ## Overview
 
