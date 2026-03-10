@@ -1,11 +1,5 @@
 # Cyrus FPS Assignment
 
-## Gameplay Preview
-
-[![Gameplay Demo](https://img.youtube.com/vi/96beften0nc/0.jpg)](https://www.youtube.com/watch?v=96beften0nc)
-
-Click the image above to watch the gameplay video.
-
 ## Overview
 
 This project implements a simple FPS-style box shooting system in **Unreal Engine 5 using C++**.
@@ -174,6 +168,14 @@ Ensuring the C++ actor components correctly matched the Blueprint setup was impo
 ### 4. HTTP Request Handling
 
 Handling asynchronous HTTP responses and safely parsing JSON data required careful validation of responses.
+
+---
+
+## Gameplay Preview
+
+[![Gameplay Demo](https://img.youtube.com/vi/96beften0nc/0.jpg)](https://www.youtube.com/watch?v=96beften0nc)
+
+Click the image above to watch the gameplay video.
 
 ---
 
